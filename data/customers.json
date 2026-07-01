@@ -1,0 +1,24 @@
+{
+  "12": {
+    "photos": [
+      {
+        "id": "P001",
+        "preview": "/uploads/12/P001.png",
+        "original": "/uploads/12/P001.png",
+        "price": 50000
+      },
+      {
+        "id": "P002",
+        "preview": "/uploads/12/P002.png",
+        "original": "/uploads/12/P002.png",
+        "price": 400000
+      },
+      {
+        "id": "P003",
+        "preview": "/uploads/12/P003.png",
+        "original": "/uploads/12/P003.png",
+        "price": 62000
+      }
+    ]
+  }
+}
